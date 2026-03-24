@@ -235,4 +235,4 @@ Include moving averages & technical indicators
 Implement predictive analytics
 Add comparison with other banking stocks
 
-📊 Live Dashboard Preview : https://github.com/thakursushant352/HDFC-Stock-Data-Analysis-/blob/main/Dashboard%20Img.png
+📊 Live Dashboard Preview : (https://github.com/thakursushant352/HDFC-Stock-Data-Analysis-/blob/main/Dashboard%20Img.png)
